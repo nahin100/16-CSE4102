@@ -1,0 +1,6 @@
+inserting abc with type 3
+1 + 2
+ID ASSIGN exp SEMI
+3 + 2
+Type REAL and Type CHAR are incompatiable
+Syntax error at line 2
