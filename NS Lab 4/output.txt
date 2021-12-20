@@ -1,0 +1,19 @@
+inserting abc with type 1 at address 0
+inserting c with type 1 at address 1
+inserting d with type 1 at address 2
+Parsing finished!
+
+
+================STACK MACHINE INSTRUCTIONS================
+  0: start             -1
+  1: ld_int_value      10
+  2: store              0
+  3: ld_int_value     100
+  4: store              1
+  5: ld_var             0
+  6: ld_var             1
+  7: add               -1
+  8: ld_int            10
+  9: add               -1
+  10: store_from_stack  2
+ 10: halt              -1
